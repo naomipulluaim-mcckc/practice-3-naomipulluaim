@@ -24,3 +24,41 @@ img{
     height: 260px;
     border: 6px solid #f6f6f4;
 }
+
+aside {
+    background: #d83134;
+    color: #f6f6f4;
+    border: 6px solid #111111;
+    width: 300px;
+    height: 320px;
+}
+
+main {
+    background: #f6f6f4;
+    border: 6px solid #111111;
+}
+
+article {
+    background: #ffffff;
+    border: 3px solid #111111;
+}
+
+section {
+    background: #facb37;
+    border: 6px solid #d83134;
+}
+
+h2 {
+    color: #d83134;
+}
+
+h3 {
+    color: #3153d1;
+}
+
+footer {
+    background: #111111;
+    color: #f6f6f4;
+    border: 6px solid #facb37;
+    height: 260px;
+}
